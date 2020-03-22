@@ -1,0 +1,10 @@
+/* @font-face*/
+
+@font-face{
+    font-family: "Roboto";
+    src: '../fonts/Roboto-Regular.ttf';
+}
+@font-face{
+	font-family: "Open_Sans";
+	src: '../fonts/OpenSans-Regular.ttf';
+}
